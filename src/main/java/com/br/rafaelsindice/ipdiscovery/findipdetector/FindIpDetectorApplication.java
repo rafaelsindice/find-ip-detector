@@ -8,6 +8,7 @@ public class FindIpDetectorApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FindIpDetectorApplication.class, args);//
+		System.out.println("esta funcinando no localhos:8080");
 	}
 
 }
